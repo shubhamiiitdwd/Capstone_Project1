@@ -1,0 +1,79 @@
+================================================================
+  INTELLIGENT PRODUCTION SCHEDULING SYSTEM - START HERE!
+================================================================
+
+🚀 QUICK START - 3 STEPS TO LAUNCH:
+
+Step 1: Install Dependencies
+---------------------------
+Open Command Prompt in this folder and run:
+
+    pip install -r requirements.txt
+
+OR simply double-click: install.bat
+
+
+Step 2: Launch the Application  
+------------------------------
+After installation completes, run:
+
+    streamlit run app.py
+
+OR simply double-click: run.bat
+
+
+Step 3: Use the Dashboard
+-------------------------
+The app will open in your browser at:
+    
+    http://localhost:8501
+
+Navigate through 4 tabs:
+- 📊 Real-Time Dashboard
+- 🎬 Scenario Management  
+- 💡 AI Recommendations
+- 📈 Analytics
+
+
+================================================================
+✨ YOUR SYSTEM IS READY TO USE! ✨
+================================================================
+
+WHAT YOU CAN DO:
+
+1. View real-time KPIs and assembly line status
+2. Select and analyze disruption scenarios
+3. Get AI-powered recommendations from 7 specialized agents
+4. Explore production analytics and trends
+5. See KPI impact predictions for each recommendation
+
+
+CONFIGURATION:
+- ✅ Gemini API Key: Configured in .env
+- ✅ Model: gemini-1.5-flash (free tier)
+- ✅ Dataset: 500 manufacturing records loaded
+- ✅ Agents: 7 AI agents ready
+
+
+DOCUMENTATION:
+- README.md - Project overview
+- QUICK_START.md - Detailed user guide
+- PROJECT_SUMMARY.md - Complete feature list
+- PROJECT_PLAN_DETAILED.md - Implementation plan
+
+
+SUPPORT:
+If you encounter issues:
+1. Make sure Python 3.10+ is installed
+2. Check that all dependencies installed successfully
+3. Verify the data file is in the project folder
+4. See QUICK_START.md for troubleshooting
+
+
+================================================================
+BUILT WITH GOOGLE GEMINI AI | CAPSTONE PROJECT 2026
+================================================================
+
+Have questions? Check the documentation files!
+
+Ready to optimize your manufacturing operations! 🏭✨
